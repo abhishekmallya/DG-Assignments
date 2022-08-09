@@ -1,0 +1,44 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,,,,
+,Date,Training Topic,Status,Comments
+,2022-01-06 00:00:00,Information Security: IS0 27001,Completed,"Why ISO 27001, Structure, Certification Procedure, Life Cycle"
+,2022-02-06 00:00:00,"DevOps, Git",Partially Completed,"What is DevOps, Version Control, Git Fundamentals, Started Git Assignment 1"
+,2022-03-06 00:00:00,Git,Partially Completed,"Started Git Assignment 2, Git Assignment 1 almost done"
+,2022-06-06 00:00:00,"Python, Git so",Partially Completed,"Completed Git Assignment 2, Git Assignment 1 stuck at conflict resolution, Starting Python Bootcamp"
+,2022-07-06 00:00:00,"Python, Git",Partially Completed,"5 Python Tasks Done,Git Assignment Part 1 almost done "
+,2022-08-06 00:00:00,"Python, SQL",Partially Completed,"7 Python Tasks Done, Started SQL Bootcamp"
+,2022-09-06 00:00:00,"Python, SQL, Git",Completed,"Python, Completed Git Assignments, SQL Bootcamp"
+,13/06/2022,"Python Bootcamp, AWS Partner",Partially Completed,"Figuring out flask, started AWS technical accreditation "
+,14/06/2022,"Python Bootcamp, AWS Partner",Partially Completed,Technical Accreditation course in progress
+,15/06/2022,"Python, AWS Technical Accreditation",Partially Completed,"AWS course, figuring out flask "
+,16/06/2022,"Git, Python",Partially Completed ,"Repeated Git Part 1 for clarity, Python 2 tasks done working on xsls to csv"
+,17/06/2022,SQL Bootcamp,Partially Completed,"2 queries, python ETL task"
+,20/06/2022,SQL Bootcamp,Partially Completed ,"SQL challenges, Advanced SQL"
+,21/06/2022,SQL Bootcamp,Partially Completed,Partially Completed SQL Assignment
+,22/06/2022,SQL Bootcamp,Partially Completed,"Completed SQL Assignment, AWS Technical Accreditation ongoing "
+,23/06/2022,AWS,Partially Completed,"Not much progress today, AWS Technical Accreditation "
+,24/06/2022,SQL Bootcamp,Partially Completed,"Repeated SQL queries assignment, Screenshots of the executed queries"
+,27/06/2022,"Devops, CI/CD",Partially Completed,"Read about jenkins, basics of devops"
+,28/06/2022,Python Bootcamp,Partially Completed,Working on Assignment
+,2022-08-07 00:00:00,"AWS Technical Accreditation, Jenkins",Partially Completed,"Read basics on jenkins, tried installation"
+,2022-12-07 00:00:00,AWS Technical Accreditation,Completed,"Completed AWS Technical Accreditation, Started IAM"
+,13/07/2022,AWS Solution Architect -  Associate,Partially Completed,"IAM, started EC2, bits of databases on AWS"
+,14/07/2022,AWS Solution Architect -  Associate,Partially Completed,"Redid IAM labs for clarity, EC2 continuation"
+,15/07/2022,AWS Solution Architect -  Associate,Partially Completed,"Completed EC2, started with databases"
+,18/07/2022,AWS Solution Architect -  Associate,Partially Completed ,Done with databases theory
+,19/07/2022,AWS Solution Architect -  Associate,Partially Completed,"Advanced IAM, Route 53"
+,20/07/2022,AWS Solution Architect -  Associate,Partially Completed ,"Route 53 completed, Security"
+,21/07/2022,AWS Solution Architect -  Associate,Partially Completed ,"Security, serverless"
+,22/07/2022,AWS Solution Architect -  Associate,Partially Completed ,"Serverless completed, VPCs"
+,25/07/2022,AWS Solution Architect -  Associate,Partially Completed,"Completed VPCs, Learning Flask for Python Assignment"
+,26/07/2022,AWS Solution Architect -  Associate,Completed,"HA Architecture, Completed Associate, Started Professional"
+,27/07/2022,AWS Solution Architect -  Professional,Partially Completed,"Speed running S3, EC2 for clarity, Data stores half done"
+,28/07/2022,AWS Solution Architect - Professional,Partially Completed,"Completed Data Store, Networking 1/4th done"
+,29/07/2022,AWS Solution Architect - Professional,Partially Completed,"Completed Networking, exploring templates"
+,2022-01-08 00:00:00,"Azure AZ-900, AWS",Partially Completed,"Explored other AWS services, Started azure fundamentals"
+,2022-02-08 00:00:00, Azure AZ-900,Partially Completed ,"Azure Architecture, Scale sets, Containers, Resource Groups "
+,2022-03-08 00:00:00,Azure AZ-900,,"Load Balancer, Vnets, VPN Gateway, Networking"
+,2022-04-08 00:00:00,Azure AZ-900,,
+,2022-05-08 00:00:00,Azure AZ-900,,Completed Fundamentals
+,2022-08-08 00:00:00,"Python Pending Tasks, Azure AZ-900",,Working on Py Assignment
+,2022-09-08 00:00:00,,,

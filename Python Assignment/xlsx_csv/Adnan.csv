@@ -1,0 +1,43 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,Date,Training Topic,Status,Comments
+,13/06/2022,ISO27001: Standards,Completed,"Why ISO27001, Understanding the standard's structure, Life cycle, toolset and support"
+,14/06/2022,"DevOps, Git",Partially Completed,"Introduction to DevOps, Getting started with Jenkins(Edureka video), Git Fundamentals"
+,15/06/2022,Git,Partially Completed,"Completed Assignemnt 1, Started with assgnment 2 of Git"
+,16/06/2022,"Git, Python Bootcamp",Partially Completed,"Redid Git assignment 1, Completed Git Assignment 2, 5 task done in Python assignment "
+,17/06/2022,Python Bootcamp,Partially Completed,Under Python Assignment completed ETL job and Xlsx to csv.
+,20/06/22,SQL Bootcamp,Partially Completed,"SQL statements fundamentals, groupby and joins completed with its challenges"
+,21/06/22,SQL Bootcamp,Partially Completed,"Completed 6 assignment querries, Completed Advanced SQL commands and challenges"
+,22/06/22,"SQL Bootcamp, AWS Technical Accreditation",Partially Completed,"Completed SQL partially Assignment and Bootcamp, Completed Introduction to AWS core tech, and From services to solutions"
+,23/06/22,"AWS Technical Accreditation, Python",Partially Completed,"Completed AWS Technical Accreditation,  Started learning about Unit Testing"
+,24/06/22,"SQL Bootcamp, Python",Partially Completed,"Revisited SQL querries and taken screenshots of the executed querries, learning about unit testing"
+,27/06/22,Python Bootcamp,Partially Completed,"Started with Unit testing exercise, Learning flask"
+,28/06/22,Python Bootcamp,Partially Completed,"Completed Notepad tracker, working on REST API"
+,29/06/22,Python Bootcamp,Partially Completed,"Working on REST API, Started with SQL info extractor"
+,30/06/2022,AWS Solutions Architect,Partially Completed,"Completed IAM(Identification and Access management), Started with S3,  went through the content and tried to practically implement them Currently stuck at creating free tier AWS account(Practical Implementation)"
+,2022-01-07 00:00:00,AWS Solutions Architect,Partially Completed,"Completed till Cross Region Replication in S3, Did labs until Cross  Region Replication in S3"
+,2022-04-07 00:00:00,AWS Solutions Architect,Partially Completed,"Completed AMI and S3 Theory and Lab, Started with EC2 theory and labs"
+,2022-05-07 00:00:00,AWS Solutions Architect,Partially Completed,"Completed EC2 theory and labs, Started with Databases"
+,06/072022,AWS Solutions Architect,Partially Completed,"Completed Databases Theory, Stuck at installing Wordpress and connecting to RDS"
+,2022-07-07 00:00:00,AWS Solutions Architect,Partially Completed,"Completed Advanced IAM, Completed Route 53, Started with VPC"
+,2022-08-07 00:00:00,AWS Solutions Architect,Partially Completed,"Watched some theory lecture of VPC,Created a new VPC with private and public subnet and a public route table, Used a NAT instance and NAT gateway"
+,2022-12-07 00:00:00,AWS Solutions Architect,Partially Completed,"Completed VPC Theory and Lab, Started with HA Architecture"
+,13/07/2022,AWS Solutions Architect,Partially Completed,"Completed HA Architecture, Started with Applications"
+,14/07/2022,AWS Solutions Architect,Partially Completed,"Completed Applications, Started with Security"
+,15/07/2022,AWS Solutions Architect,Partially Completed,"Completed Security, Started with Serverless"
+,18/07/2022,AWS Solutions Architect,Completed,"Completed AWS Solution Architect Associate course, Started with AWS Solution Architect Professional course"
+,19/07/2022,AWS Solutions Architect Professional,Partially Completed,"Completed Introduction and Data Stores,Started with Networking"
+,20/07/2022,AWS Solutions Architect Professional,Partially Completed,Completed Networking theory and lab
+,21/07/2022,AWS Solutions Architect Professional,Partially Completed,Partially completed the Security 
+,22/07/2022,AWS Solutions Architect Professional,Partially Completed,"Completed Security, Exploring SAM templates"
+,25/07/2022,AWS Solutions Architect Professional,Partially Completed,"Completed Migrations, Started with Architecting to scale"
+,26/07/2022,AWS Solutions Architect Professional,Partially Completed,"Completed Architecting to scale, Started with Business Continuty"
+,27/07/2022,AWS Solutions Architect Professional,Partially Completed,"Completed Business Contunity, Started with Deployment and operations management"
+,28/07/2022,AWS Solutions Architect Professional,Partially Completed,"Completed Deployment and operations, Started with Cost Management"
+,29/07/2022,AWS Solutions Architect Professional,Completed,Completed AWS Solutions Architect Professional course
+,2022-01-08 00:00:00,Azure DP-201,Partially Completed,Started with Azure DP-203 course
+,2022-02-08 00:00:00,Azure DP-201,Partially Completed,"Azure CosmosDB, Scalability, Disaster Recovery"
+,2022-03-08 00:00:00,Azure DP-201,Partially Completed,"Azure SQL DB, Scalability, Disaster Recovery"
+,2022-04-08 00:00:00,Azure DP-201,Partially Completed,"Azure SQL Warehouse, Scalability, Disaster Recovery"
+,2022-05-08 00:00:00,Azure DP-201,Partially Completed,Designing Data Ingestion Pipeline
+,2022-08-08 00:00:00,Azure DP-201,Partially Completed,"Designing for processing, Stream and Batch processing"
+,2022-09-08 00:00:00,Azure DP-201,Partially Completed,

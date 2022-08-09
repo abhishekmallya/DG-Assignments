@@ -1,0 +1,59 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,,,,
+,Date,Training Topic,Status,Comments
+,15-02-2022,"Devops, CI/CD",Partially completed,"DevOps introduction, What is its importance and mertis over other methodologies, CI/CD concepts, Introduction to Jenkins, its installation and implementation."
+,16-02-2022,"DevOps, CI/CD, Git",Completed DevOps and Ci/CD. Partially completed Git,Jenkins installation done. Started with DevOps Assignment.
+,17-02-2022,"DevOps, CI/CD, Git",Completed all tutorials and resources.,Created simple calculator code and test case required for assignment.
+,18-02-2022,"DevOps, CI/CD, Git",Completed Assignment Part 1,"Created repository and related branches, commits, merges etc"
+,21-02-2022,DevOps Assignment and Python bootcamp,Partially completed,Python and its packages
+,22-02-2022,Python bootcamp,Partially completed,Working on Assignment question
+,23-02-2022,Python bootcamp,Partially completed,Python Assignment (First 4 questions of Python practice program completed)
+,24-02-2022,Python bootcamp,Partially completed,Python Assignment (Python practice programs completed. Working on unit testing (TDD))
+,25-02-2022,Python bootcamp,Partially completed,Python Assignment (5 out of 8 Tasks completed)
+,28-02-2022,Python bootcamp,Partially completed,Python Assignment (7 out of 8 Tasks completed)
+,2022-02-03 00:00:00,SQL Bootcamp,Partially completed,SQL Tutorials partially completed. SQL Assignment( 3 out of 10 quesries done)
+,2022-03-03 00:00:00,SQL Bootcamp,Partially completed,SQL Assignemnt (8 out of 10 questions done)
+,2022-04-03 00:00:00,Python and SQL Bootcamp,Completed SQL Assignment,SQL Assignment completed. Python Assignment (Working on Data Manipulation and Notepad tracker problems)
+,2022-07-03 00:00:00,Python and AWS,Partially completed ,"Python Assignment (7 out of 8 Tasks completed), AWS Tutorials started."
+,2022-08-03 00:00:00,AWS Sol Arch Associate,Partially Completed,AWS Introduction
+,2022-09-03 00:00:00,AWS Sol Arch Associate,Partially Completed,"IAM, S3"
+,2022-10-03 00:00:00,AWS Sol Arch Associate,Partially Completed,"EC2, DataBase"
+,2022-11-03 00:00:00,AWS Sol Arch Associate,Partially Completed,"Advanced IAM, Route 53"
+,14-03-2022,AWS Sol Arch Associate,Partially Completed,"Hands on IAM,EC2, Databases"
+,15-03-2022,AWS Sol Arch Associate,Partially Completed,"Hands on Advanced IAM,Route 53, VPC's.HA Architecture"
+,16-03-2022,AWS Sol Arch Associate,Partially Completed,"HA Architecture, Applications and Security"
+,17-03-2022,AWS Sol Arch Associate,Completed Sol Architect- Associate,Security and Serverless
+,18-03-2022,AWS Sol Arch Proffessional,Partially Completed,Data Stores and Networking
+,21-03-2022,AWS Sol Arch Proffessional,Partially Completed,"Security, Migrations and Architecting to Scale"
+,22-03-2022,AWS Sol Arch Proffessional,Partially Completed,"Migrations, Business Continuity, Deployment and operations mannagement"
+,23-03-2022,"AWS Sol Arch Professional, GCP","Completed AWS, Partially completed GCP",Cost Management and GCP Fundamentals
+,24-03-2022,GCP,Partally Completed,"GCP Fundamentals, GCP Core services"
+,25-03-2022,GCP,Completed(Must-Do),GCP Core Services and Hands On
+,28-03-2022,Azure Fundamentals AZ900,Partially Completed,"Azure course overview, Cloud Shell, Cloud Concepts, Azure architecture and Compute Engine"
+,29-03-2022,Azure Fundamentals AZ900,Partially Completed,"Networking, Storage, Databases, Authentication and Authorization, Azure Solutions."
+,30-03-2022,Azure Fundamentals AZ900,Completed Azure Fundamentals,"Security, Privacy, Compliance, and Trust, Pricing, and Support."
+,31-03-2022,Azure Data Solution DP200,Partially Completed,"Data Schema, NoSQL,ADLS, Cosmos DB, Azure Table Storage, SQL Data warehouse, SQL Database"
+,2022-01-04 00:00:00,Azure Data Solution DP200,Partially Completed,"SQL Database, Data masking, Batch processing, Apache spark, DataBricks, PolyBase, Azure Stream Analytics,"
+,2022-04-04 00:00:00,Azure Data Solution DP200,Completed DP200,"Data Factory, Monitoring Storage accounts, Azure Monitor, Monitoring, Optimization"
+,2022-05-04 00:00:00,Azure Data Solution DP201,Partially Completed,"Azure Storage, Big Data Storage, Big Data Architecture, Cosmos DB, Cosmos DB API, Disaster Recovery, DataLake Gen2"
+,2022-06-04 00:00:00,Azure Data Solution DP201,Partially Completed,"Partitioning Tables, SQL DataBase and Warehouse, Data Distribution, Polybase Data Ingestion, Scaling Database, Disaster Recovery"
+,2022-07-04 00:00:00,Azure Data Solution DP201,Completed,"Data Ingestion, Batch processing, Stream processing, Optimization, Authentication, Security"
+,08-04- 2022,"Jenkins, Snowflake",Partially Completed,"CI Pipeline, Introduction, Getting started with Snowflake, Snowflake concepts"
+,11- 04-2022,Snowflake,Partially Completed,"Getting Data Into Snowflake, Hands-On, Performance Optimizations"
+,12 -04-2022,Snowflake,Partially Completed,"Performance Optimizations, Time Travel, Failsafe and Zero Copy Clones, Hands On"
+,13 -04-2022,Snowflake,Completed,"Secure Data Sharing, Snowflake Access Management and Conclusions"
+,14 -04-2022,AWS Partner:Accreditation (Technical),Completed,Completed Course and Exam
+,15 -04-2022,Snowflake,Partially Completed,Snowflake PoC assignment
+,18 -04-2022,Snowflake,Partially Completed,Snowflake PoC assignment
+,19 -04-2022,Snowflake,Completed,Snowflake PoC assignment
+,21 -04-2022,GCP,Partially Completety,Google Cloud Foundation
+,22 -04-2022,GCP,Partially Completety,Completed Google Cloud Foundation
+,25 -04-2022,GCP,Partially Completety,Completed Foundation Google kubernetes engine (GKE)
+,26-04-2022,GCP,Partially Completety,Data Warehouse and data lakes
+,27-04-2022,GCP,Partially Completety,Completed Data Warehouse and data lakes
+,28-04-2022,GCP,Partially Completety,Compleated GCP big data fundamentals
+,29-04-2022,GCP,Completed,Compleated GCP Infrastucture and scaling automation
+,2022-02-05 00:00:00,AWS Partner: Well-Architected Best Practices (Technical),Completed,Completed Course
+,2022-04-05 00:00:00,AWS Partner:Accreditation (Business),Partially completed,Self Paced course half way done
+,2022-05-05 00:00:00,AWS Partner: Cloud Economics Accreditation,Completed,Completed course and Exam
+,2022-06-05 00:00:00,AWS Partner:Accreditation (Business),Completed,Completed course and Exam

@@ -1,0 +1,51 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,,,,
+,Date,Training Topic,Status,Comments
+,2022-03-03 00:00:00,"Information Security-ISO27001: Standards
+",Completed,"What is ISO/IEC 27001, Why ISO 27001, Certification procedure, Certification life cycle"
+,2022-04-03 00:00:00,"Devops, CI/CD",Partially Completed,"Devops Introduction, Advantaged of Devops, CI/CD concepts, Stuck on Jenkins installation"
+,2022-07-03 00:00:00,"Devops, CI/CD, GIT",Partially Completed,"Completed Git toutorials, Starting with Git Assignment"
+,2022-08-03 00:00:00,"Devops, CI/CD, GIT",Partially Completed,"Completed Assignment 1, Assignment 2 partially completed"
+,2022-09-03 00:00:00,"Devops, CI/CD, GIT",Completed ,"Completed Git Assignment, Started DevOps Assignment"
+,2022-10-03 00:00:00,Python Bootcamp,Partially Completed,"Python and its packages, Working on assignment questions"
+,2022-11-03 00:00:00,Python Bootcamp,Partially Completed,"6 questions completed, Learning concepts of Unit testing, Rest API and Flask"
+,14/03/2022,Python Bootcamp,Partially Completed,"8 tasks completed, working on Data Manipulation problem"
+,15/03/2022,Python Bootcamp,Partially Completed,"9 tasks completed, 2 tasks pending"
+,16/03/2022,Python Bootcamp/SQL Bootcamp,Partially Completed,"Python 2 tasks pending,  Started with SQL "
+,17/03/2022,SQL bootcamp,Partially Completed,Partially completed SQL Assignment
+,18/03/2022,SQL bootcamp,Completed,Completed SQL Assignment
+,21/03/2022,Python Bootcamp,Partially Completed,Python Assignment(Working on Notepad Tracker and Rest API)
+,22/03/2022,Python Bootcamp,Partially Completed,"Python Assignment(1 task pending, Simultaneously Working on it)"
+,23/03/2022,Python and AWS,Partially Completed,Started with AWS Solutions Architect : Associate
+,24/03/2022,AWS Sol. Architect Associate,Partially Completed,"IAM, S3 along with hands on free tier"
+,25/03/2022,AWS Sol. Architect Associate,Partially Completed,"IAM S3, EC2"
+,28/02/2022,AWS Sol. Architect Associate,Partially Completed,"EC2, Databases"
+,29/02/2022,AWS Sol. Architect Associate,Partially Completed,"Databases, Advanced IAM"
+,30/02/2022,AWS Sol. Architect Associate,Partially Completed,"Route 53, VPC"
+,31/02/2022,AWS Sol. Architect Associate,Partially Completed,"VPCs, HA Architecture, Applications"
+,2022-01-04 00:00:00,AWS Sol. Architect Associate,Completed,"Applications, Security, Serverless"
+,2022-04-04 00:00:00,AWS Sol. Architect Professional,Partially Completed,"Data Stores, Networking"
+,2022-05-04 00:00:00,AWS Sol. Architect Professional,Partially Completed,"Security, Migrations, Started with Architecting to scale"
+,2022-06-04 00:00:00,AWS Sol. Architect Professional,Partially Completed,"Architecting to scale, Business Continuity, Deployment and operations Management"
+,2022-07-04 00:00:00,AWS Sol. Architect Professional,Completed,AWS Sol. Architect Professional
+,2022-08-04 00:00:00,"Python Bootcamp, GCP",Partially Completed,"Completed Pythpon pending tasks, Sarted with GCP"
+,2022-11-04 00:00:00,GCP,Partially Completed,GCP Fundamentals
+,2022-12-04 00:00:00,"GCP, DevOps",Partially Completed,"GCP Fundamentals, GCP Core Services, Jenkins Pipeline"
+,13/04/2022,"GCP, Azure Fundamentals AZ900","Completed, Partially Completed","GCP Core Services, Started with Azure Fundamentals AZ900"
+,14/04/2022,"Azure Fundamentals AZ900, AWS test",Partially Completed,"Azure course overview, Cloud Shell, Cloud Concepts, Azure architecture, Attempted  AWS partner accreditation test"
+,15/04/2022,Azure Fundamentals AZ900,Partially Completed,"Compute, Networking, Storage, Databases"
+,18/04/2022,Azure Fundamentals AZ900,Partially Completed,"Authentication and Authorization, Azure Solutions, Security, Privacy, Compliance and trust, Pricing"
+,19/04/2022,"Azure Fundamentals AZ900, Azure Data solutions DP200",Completed Azure Fundamentals AZ900,"Azure Fundamentals AZ900, Azure Data solutions DP200 "
+,20/04/2022,Azure Data solutions DP200,Partially Completed,Azure Data solutions DP200
+,21/04/2022,Azure Data solutions DP200,Partially Completed,Azure Data solutions DP200
+,22/04/2022,"Azure Data solutions DP200, Azure Data solutions DP200",Completed Azure Data solutions DP200,
+,25/04/2022,Azure Data solutions DP201,Partially Completed,"Azure Storage, Big Data Storage, Big Data Architecture, Cosmos DB, Cosmos DB API, Disaster Recovery"
+,26/04/2022,Azure Data solutions DP201,Partially Completed,"DataLake Gen2, Partitioning Tables, SQL DataBase and Warehouse, Data Distribution, Polybase Data Ingestion, Scaling Database"
+,28/04/2022,"Azure Data solutions DP201, AWS partner accreditation test","Completed AWS partner accreditation test, Completed DP201","Completed AWS partner accreditation test, Data Ingestion, Batch processing, Stream processing, Optimization, Authentication, Security"
+,29/04/2022,Snowflake,Partially completed Snowflake,Started with Snowflakes
+,2022-02-05 00:00:00,Snowflake,Partially completed,"Clustering, Virtual Warehouse, Performance tuning, Loading data in Snowflake,Snowpipe, Data sharing"
+,2022-04-05 00:00:00,Snowflake,Partially completed,"Competed Snowflake cloud data warehouse, Partially completed Snowflake essentials"
+,2022-05-05 00:00:00,Snowflake,Completed,Completed Snowflake Toutorials
+,2022-06-05 00:00:00,"Snowflake Assignment, Azure DF",Partially Completed,Snowflake PoC Assignment
+,2022-09-05 00:00:00,"Snowflake Assignment, Azure DF",Partially Completed,Snowflake PoC Assignment
+,2022-10-05 00:00:00,"Snowflake Assignment, Azure DF",Completed Snowflake Assignment,Snowflake PoC Assignment

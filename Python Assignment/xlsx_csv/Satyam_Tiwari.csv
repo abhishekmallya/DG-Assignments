@@ -1,0 +1,37 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4
+,,,,
+,Date,Training Topic,Status,Comments
+,15-02-2022,"Devops,Git",Partially Completed,"Devops Its introduction ,Why it needed and What are the tools in Devops , Git and its introduction"
+,16-02-2022,"Devops,Git,Jenkins,CI/CD",Partially Completed,"Completed Git Tutorials and starting with Git Assignment, Jenkins and its installation,CI/CD"
+,17-02-2022,"Devops,Git,Jenkins,CI/CD",Partially Completed,Almost done with Git Assignment and starting with Devops Assignment
+,18-02-2022,"Devops,Git,Jenkins,CI/CD",Completed Git Assignment,Git Assignment done and Startinng Devops Assignment
+,21-02-2022,Python Bootcamp,Completed Python tutorials,"Python and its Packages ,Flask,Sqlite Concepts"
+,22-02-2022,Python Bootcamp,Partially Completed Assignments,"Python,Flask,Mysql and Assignments questions"
+,23-02-2022,Python Bootcamp,Partially Completed Assignments,"Python,Flask,Mysql,OOPs,Pandas,and Assignments questions"
+,24-02-2022,Python Bootcamp,Partially Completed,"Python Assignment (7 questions done,4 more left 2 of Flask and 2 Manipulation"
+,25-02-2022,"Python ,SQL Bootcamp",Partially Completed,"Python Assignment done(Except Flask task), Studying SQL,PL-SQL  "
+,28-02-2022,"Python,SQL Bootcamp",Partially Completed,SQL Assignment and Pthon flask
+,2022-02-03 00:00:00,"Python,SQL Bootcamp",Completed SQL Assignment,Completed SQL Assignment
+,2022-03-03 00:00:00,"Python,SQL Bootcamp","Completed SQL,Partail Python Assignment",Doing python assignmenet of Flask and Rest API
+,2022-04-03 00:00:00,"Python,SQL Bootcamp",Completed Python And SQL Assignment,SQL Assignment Done And Python Done Exept some Problems and Doubt iam Working on
+,2022-07-03 00:00:00,Python And AWS,Partially Completed,Python Assignment and Started with AWS Course
+,2022-08-03 00:00:00,AWS Solution Architect Associate,Partially Completed,
+,2022-09-03 00:00:00,AWS Solution Architect Associate,Partially Completed,Studying Modules of Course with Hands on in AWS Free Tier
+,2022-10-03 00:00:00,AWS Solution Architect Associate,Partially Completed,"Modules Include S3,EC2"
+,2022-11-03 00:00:00,AWS Solution Architect Associate,Partially Completed,"Modules Include EC2,EBS,Database,RDS,DyanamoDb,Adance IAM"
+,14/03/2022,AWS Solution Architect Associate,Partially Completed,"Modules Include Route 53 Types and its Policies,DNS and VPC"
+,15/03/2022,AWS Solution Architect Associate,Partially Completed,"Modules Include VPC,Elastic Load Balance,EBS and Previous Modules"
+,16/03/2022,AWS Solution Architect Associate,Partially Completed,"Modules on VPC,HA Architecture,Application and Security"
+,17/03/2022,AWS Solution Architect Associate,Partially Completed,"Modules on Security and Serverless,Lambda"
+,18/03/2022,AWS Solution Architect Associate And Professional,Partially Completed,Moodules on Serverless and  Data Store
+,21/03/2022,AWS Solution Architect Associate And Professional,Partially Completed,Modules on Data Store And Networking
+,22/03/2022,AWS Solution Architect Associate And Professional,Partially Completed,Modules on Security and Migration
+,23/03/2022,AWS Solution Architect Associate And Professional and GCP,Partially Completed,"Modules on Migration,Architecture to Scale and Deployment and GCP Fundamentals( Introduction,Virtual Machines and Storage"
+,24/03/2022,GCP,Partially Completed,Completed 1 Course named GCP FUndamentals and Almost 2nd Course  in GCP
+,25/03/2022,GCP,Completed,Completed 2nd Course named GCP Core Services
+,28/03/2022,Azure,Partially Completed,Going Through the lectures on AZ-900 Microsoft Azure Fundamentals Course
+,29/03/2022,Azure,Partially Completed,"Modules Include Compute,Storage,Database,Networking,Authentication and authorization"
+,30/03/2022,Azure,Partially Completed,"Modules on Authentication and Authorization,Azure Solution,Security,Privacy Compliannce and trust ,Support"
+,31/03/2022,Azure,Partially Completed,Going Through Microsoft Azure Eaxam DP-200 Implemnting Azure Data Solution Course Lectures 
+,2022-01-04 00:00:00,Azure,Partially Completed,Going Through Microsoft Azure Eaxam DP-200 Implemnting Azure Data Solution Course Lectures 
+,2022-04-04 00:00:00,Azure,Partially Completed,Completed DP-200 Course and Started with DP-201
