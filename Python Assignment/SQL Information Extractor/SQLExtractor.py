@@ -2,7 +2,7 @@ import re
 import pprint
 import json
 from json import JSONEncoder
-import jsonpickle
+
 
 class setEncoder(JSONEncoder):
         def default(self, obj):
@@ -39,21 +39,8 @@ with open(name,'r') as sql_file:
         count += 1
         json_obj.append(mp)
 
-
-#         for i in json_obj:
-#                 pprint.pprint(i)   
-
-
-# 
-
-
-jsonData = json.dumps(json_obj, indent=4, cls=setEncoder)
-print(jsonData)
-
-# Let's load it using the load method to check if we can decode it or not.
-setObj = json.loads(jsonData)
-
-with open("sample_stored_procedure.json", "w") as outfile:   
-        json.dump(setObj, outfile)
+with open("sample_stored_procedure.json", "w") as outfile:
+        pprint.pprint(json_obj)
+        json.dump(json_obj, outfile, indent=4 ,cls=setEncoder)
 
 
